@@ -163,10 +163,6 @@ main a {
     transition: 1s;
 }
 
-.hero-bg:hover {
-    background-color: #fff;
-}
-
 .hero-text {
     color: #fff;
 	position: absolute;
