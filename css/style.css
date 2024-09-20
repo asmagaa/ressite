@@ -193,6 +193,7 @@ main a {
 	background-position: center;
 	text-align: center;
 	border-radius: 25px;
+	background: none;
 }
 
 .product:hover h3 {
